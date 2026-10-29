@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/banner/banner.svg" alt="Buriedimp187 — FullStack · AI Engineering" width="100%">
+  <img src="assets/banner/banner.svg" alt="Buriedimp187 — Full Stack · AI Applications" width="100%">
 </div>
 
 ## About
@@ -10,8 +10,8 @@ My areas of interest are:
 | Area | Interest |
 | :-- | :-- |
 | **Software Development** | Writing maintainable software |
-| **Backend** | Services, APIs and data |
-| **AI Engineering** | Building with language models |
+| **Full Stack** | Web applications, front to back |
+| **AI Applications** | Building with language models |
 
 ## Work
 
