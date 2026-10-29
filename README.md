@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/banner/banner.svg" alt="Buriedimp187 — Backend · AI Engineering" width="100%">
+  <img src="assets/banner/banner.svg" alt="Buriedimp187 — FullStack · AI Engineering" width="100%">
 </div>
 
 ## About
