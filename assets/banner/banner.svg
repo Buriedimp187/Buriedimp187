@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 320" width="1280" height="320" role="img" aria-labelledby="t d">
+  <title id="t">Buriedimp187</title>
+  <desc id="d">Backend · AI Engineering</desc>
+  <rect width="1280" height="320" fill="#0D1117"/>
+  <path d="M0 216h1280" stroke="#30363D" stroke-width="2"/>
+  <path d="M80 216V86l83 71 83-71v130z" fill="#FF5A36"/>
+  <rect x="80" y="240" width="72" height="9" rx="4.5" fill="#8B949E"/>
+  <text x="304" y="148" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="72" font-weight="700" fill="#E6EDF3">Buriedimp187</text>
+  <text x="308" y="194" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="40" fill="#8B949E">Backend · AI Engineering</text>
+</svg>
